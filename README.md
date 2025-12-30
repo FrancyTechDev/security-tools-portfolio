@@ -8,13 +8,13 @@ Professional cybersecurity tools for educational and SME security assessment pur
 - Language: Python
 - Scope: OWASP basic vulnerabilities
 - Output: JSON report
-👉 https://github.com/ORG/web-vulnerability-scanner
+👉[ https://github.com/ORG/web-vulnerability-scanner](https://github.com/FrancyTechDev/web-vulnerability-scanner)
 
 ### TCP Port Scanner
 - Language: Python
 - Scope: Network reconnaissance
 - Output: CLI
-👉 https://github.com/ORG/tcp-port-scanner
+👉 [https://github.com/ORG/tcp-port-scanner](https://github.com/FrancyTechDev/python-tcp-port-scanner)
 
 ## Disclaimer
 Educational and authorized testing only.
