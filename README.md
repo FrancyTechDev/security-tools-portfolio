@@ -1,6 +1,6 @@
 # FrancyTech Security Tools Portfolio
 
-Professional cybersecurity tools for educational and SME security assessment purposes.
+Professional cybersecurity tools for **educational purposes** and **SME security assessments**.
 
 ## Projects
 
@@ -8,13 +8,15 @@ Professional cybersecurity tools for educational and SME security assessment pur
 - Language: Python
 - Scope: OWASP basic vulnerabilities
 - Output: JSON report
-👉[ https://github.com/ORG/web-vulnerability-scanner](https://github.com/FrancyTechDev/web-vulnerability-scanner)
+- Repo: [Web Vulnerability Scanner](https://github.com/ORG/web-vulnerability-scanner)
 
 ### TCP Port Scanner
 - Language: Python
 - Scope: Network reconnaissance
 - Output: CLI
-👉 [https://github.com/ORG/tcp-port-scanner](https://github.com/FrancyTechDev/python-tcp-port-scanner)
+- Repo: [TCP Port Scanner](https://github.com/ORG/tcp-port-scanner)
 
 ## Disclaimer
-Educational and authorized testing only.
+For educational and authorized testing only.  
+
+This repository contains project documentation and links. Licensed under the MIT License.
